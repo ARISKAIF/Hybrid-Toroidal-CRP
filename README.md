@@ -59,5 +59,5 @@ Contra-rotating propeller systems offer improved aerodynamic/hydrodynamic effici
 ## 👤 Author
 
 * **Aris Kaif U** - *Mechanical Engineering Student & University First Rank Holder*
-* [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+* [LinkedIn](https://www.linkedin.com/in/aris-kaif-93a83633b) | [GitHub](https://github.com)
 * Email: ak6805@srmist.edu.in
