@@ -52,7 +52,7 @@ Contra-rotating propeller systems offer improved aerodynamic/hydrodynamic effici
 
 | Blade CAD Mesh | CFD Velocity Streamlines | FEA Stress Distribution |
 | :---: | :---: | :---: |
-| ![CAD Model](https://github.com/ARISKAIF/Hybrid-Toroidal-CRP/tree/main/CAD) | ![CFD Results](./Images/cfd_flow.png) | ![FEA Analysis](./Images/fea_stress.png) |
+| ![CAD Model](https://github.com/ARISKAIF/Hybrid-Toroidal-CRP/tree/main/CAD) | ![CFD Results](https://github.com/ARISKAIF/Hybrid-Toroidal-CRP/tree/main/CFD%20(Computaional%20Fluid%20Dynamics)) | ![FEA Analysis](./Images/fea_stress.png) |
 
 ---
 
